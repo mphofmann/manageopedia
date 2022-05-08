@@ -1,2 +1,3 @@
-# manageopedia
+# MANAGEOPEDIA
+
 tbd
