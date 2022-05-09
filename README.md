@@ -8,4 +8,4 @@ This document explains how to install Manageopedia. There are basically two step
 The Appendix (Z.) list some technical details (e.g. all packages)
 
 
-# ... comming soon.
+# ... coming soon.
